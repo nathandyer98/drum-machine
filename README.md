@@ -1,5 +1,5 @@
 # Drum Pad Web App
 
-A simple drum pad web app, built on Vite using React JS.
+It is built on Vite using the React JS framework paired with CSS, and utilises the JS audio library paired with audio retrieved from freeCodeCamp drums link via: https://s3.amazonaws.com/freecodecamp/drums
 
-Link to website: https://drum-machine-fcc.pages.dev/
+Here is the link to the website: https://drum-machine-fcc.pages.dev/
